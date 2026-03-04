@@ -218,8 +218,8 @@ API тесты используют следующие категории зап
 
 # Дополнительная информация
 
-Финальный проект по ручному тестированию:
-https://katygashtest.yonote.ru/share/2656fa9a-74a3-4c44-b77b-d3552247b47a#h-funkcional%D1%8Cnoe-testirovanie
+Дипломная работа:
+[https://katygashtest.yonote.ru/share/2656fa9a-74a3-4c44-b77b-d3552247b47a#h-funkcional%D1%8Cnoe-testirovanie](https://katygashtest.yonote.ru/share/2e09620d-194a-48ff-bb63-754ef0fca958)
 
 Логин: eka4717@mail.ru
 Пароль: Yonote53590!
